@@ -13,3 +13,7 @@ A fork looks like a clone, but it is not a clone. There is still some sort of co
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You know what the original was and you can compare the local head and remote head with the original and see what changes have been made.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Collaboration would probably go by using Google Docs. It would be easier so commit changes, since Google automatically saves files. However, it would be more difficult to retrace what changes have been made and to compare new and old files, or files that have been changed by multiple collaborators.
