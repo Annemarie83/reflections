@@ -10,3 +10,6 @@ Describe the differences between forks, clones, and branches. When would you use
 
 A fork looks like a clone, but it is not a clone. There is still some sort of connection between the original repository and the fork. A clone is a copy of another repository. A branch, errr... i know what is it, but I can't explain it. Some sort of path, away from the highway, that enables you to experiment with your code ;-)
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You know what the original was and you can compare the local head and remote head with the original and see what changes have been made.
