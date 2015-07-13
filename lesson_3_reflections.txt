@@ -6,3 +6,7 @@ Why might you want to always pull changes manually rather than having Git automa
 
 Maybe the changes are not competely done yet, and you get a half finished file or something? I'm not sure....
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A fork looks like a clone, but it is not a clone. There is still some sort of connection between the original repository and the fork. A clone is a copy of another repository. A branch, errr... i know what is it, but I can't explain it. Some sort of path, away from the highway, that enables you to experiment with your code ;-)
+
