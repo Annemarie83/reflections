@@ -17,3 +17,7 @@ You know what the original was and you can compare the local head and remote hea
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Collaboration would probably go by using Google Docs. It would be easier so commit changes, since Google automatically saves files. However, it would be more difficult to retrace what changes have been made and to compare new and old files, or files that have been changed by multiple collaborators.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+To have the opportunity to experiment freely, without the chance that the code will be corrupted or something. Directly in the master is easier and less time-consuming, but using branches is safer. And easier if you collaborate.
